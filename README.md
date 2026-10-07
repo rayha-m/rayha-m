@@ -12,4 +12,4 @@ data science, and their applications in finance and business.
 Python · Java · pandas · scikit-learn · Google Colab · React Native · Git
 
 ### Reach me
-[LinkedIn](www.linkedin.com/in/rayha-manam)
+[LinkedIn](https://www.linkedin.com/in/rayha-manam)
