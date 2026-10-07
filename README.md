@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rayha
 
-<!--
-**rayha-m/rayha-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Texas A&M University, interested in machine learning,
+data science, and their applications in finance and business.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- **MovieML**: predicting a movie's commercial success using only pre-release data (Python, scikit-learn, XGBoost)
+- **ScholarSync**: Project Manager for an Aggie Data Science Club team project
+- **Reelroll**: a movie discovery app built with React Native / Expo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools I use
+Python · Java · pandas · scikit-learn · Google Colab · React Native · Git
+
+### 📫 Reach me
+[LinkedIn](www.linkedin.com/in/rayha-manam)
