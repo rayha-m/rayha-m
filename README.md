@@ -7,7 +7,7 @@ Computer Science student at Texas A&M interested in machine learning, data scien
 - **[MovieML](https://github.com/rayha-m/movieml)**: predicting a movie's commercial success using only pre-release data (Python, scikit-learn, XGBoost)
 - **[Heart Disease Predictor](https://github.com/rayha-m/heart-disease-predictor)**: comparing Logistic Regression, Random Forest and XGBoost, tuned for recall, with a Streamlit app
 - **[SyllaSync](https://github.com/rayha-m/syllasync)**: turns any syllabus PDF into a calendar, grade tracker and study plan with Gemini (MLH Prompt2Product)
-- **[Daybreak](https://github.com/rayha-m/daybreak)**: my automated daily morning brief over iMessage and Telegram
+- **[Daybreak](https://github.com/rayha-m/daybreak)**: my automated daily morning brief on Telegram
 - **ScholarSync**: Lead PM for an Aggie Data Science Club scholarship-matching platform (Python, Selenium, Streamlit)
 
 ### Tools
