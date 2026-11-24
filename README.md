@@ -5,7 +5,7 @@ Computer Science student at Texas A&M building machine learning, computer vision
 ### Projects
 - **[HerdWatch](https://github.com/rayha-m/herdwatch)**: agentic computer vision for cattle health: YOLO11 tracking across 3 cameras plus a self-checking Claude vision agent that ranks BRD risk, with a live early-warning mode (Python, PyTorch, YOLO, Claude API)
 - **[Market-Moving Event Predictor](https://github.com/rayha-m/market-event-predictor)**: a pre-registered test of whether S&P 500 earnings releases predict the stock's reaction, across 20,003 events (Python, pandas, scikit-learn, NLP, pytest)
-- - **[RangeReader](https://github.com/rayha-m/rangereader-poker-bot)**: Short Deck PLO5 poker bot for the TAMU Datathon tournament, with a vectorized NumPy equity engine and opponent modeling (Python, NumPy, Monte Carlo)
+- **[RangeReader](https://github.com/rayha-m/rangereader-poker-bot)**: Short Deck PLO5 poker bot for the TAMU Datathon tournament, with a vectorized NumPy equity engine and opponent modeling (Python, NumPy, Monte Carlo)
 - **[Daybreak](https://github.com/rayha-m/daybreak)**: my automated daily morning brief on Telegram, running every day on GitHub Actions (Python, Gemini API)
 - **[SyllaSync](https://github.com/rayha-m/syllasync)**: turns any syllabus PDF into a calendar, grade tracker and study plan with Gemini (MLH Prompt2Product)
 - **[MovieML](https://github.com/rayha-m/movieml)**: predicting a movie's commercial success using only pre-release data (Python, PyTorch, scikit-learn, XGBoost)
